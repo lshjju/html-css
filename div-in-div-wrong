@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>YUNA ZZING</title>
+
+<style type="text/css">
+
+/*----CDN WEBFONT-----------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR|Oswald');
+.notosanskr { font-size: 12px; color: #666666; line-height: 24px; font-family: 'Noto Sans KR', sans-serif; }
+.Oswald { font-size: 12px; color: #666666; line-height: 24px; font-family: 'Oswald', sans-serif; }
+
+/*---------font-setting---------------*/
+
+body {
+font-family: "Oswald", sans-serif; 
+font-size: 12px; line-height: 1.5; color: #222;
+}
+
+/*---------------basic----------------*/
+
+body {
+margin: 0; 
+}
+
+a { color: #000; text-decoration: none; }
+
+/*-------------contents--------------*/
+
+.body{
+background-color: #ccc;
+}  
+  
+.tb {
+background-color: #ddd;
+clear: both;
+margin: 0 auto; 
+padding: 40px;
+text-align: center;
+}  
+
+.body-box{
+width: 1000px;
+background-color: #bbb;
+margin: 0 auto;
+}
+
+.body-sns{
+background-color: #aaa;
+width: 200px;
+float: left;
+padding: 20px;
+}
+
+.body-copyright{
+background-color: #aaa;
+width: 400px;
+float: right;
+padding: 20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!------top-------->
+<div class="tb">
+TOP<p>
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+</div>  
+  
+<!------footer-------->
+<div class="body">
+<div class="body-box">
+<div class="body-sns">
+<a href="#" alt="twitter">LEFT<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</a>
+</div>
+<div class="body-copyright">
+RIGHT<P>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</div>
+</div>
+</div>
+  
+<!------bottom------->
+<div class="tb">
+BOTTOM<p>
+Where can I get some?
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+</div>  
+  
+</body>
+</html>
